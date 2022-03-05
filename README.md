@@ -8,5 +8,6 @@ Use this repo to report feedback and issues for the following `rtools`:
  - `rTexViewer`: A simple and easy-to-use textures viewer and formats converter
  - `rTexPacker`: A simple and easy-to-use textures packer and font atlas creator
  - `rIconsPacker`: A simple and easy-to-use icons packer and extractor
+ - `rImageShield`: A simple and easy-to-use tool to embed messages into images
  
  In case of some specific question, you can contact directly to: `ray[at]raylibtech.com`
