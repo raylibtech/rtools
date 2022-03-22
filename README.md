@@ -9,5 +9,6 @@ Use this repo to report feedback and issues for the following `rtools`:
  - `rTexPacker`: A simple and easy-to-use textures packer and font atlas creator
  - `rIconsPacker`: A simple and easy-to-use icons packer and extractor
  - `rImageShield`: A simple and easy-to-use tool to embed messages into images
+ - `rQuizzer`: A simple and easy-to-use quizzer tool
  
  In case of some specific question, you can contact directly to: `ray[at]raylibtech.com`
