@@ -10,5 +10,6 @@ Use this repo to report feedback and issues for the following `rtools`:
  - `rIconsPacker`: A simple and easy-to-use icons packer and extractor
  - `rImageShield`: A simple and easy-to-use tool to embed messages into images
  - `rQuizzer`: A simple and easy-to-use quizzer tool
+ - `rrespacker`: A simple and easy-to-use rres resource packer
  
  In case of some specific question, you can contact directly to: `ray[at]raylibtech.com`
