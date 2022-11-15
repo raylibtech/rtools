@@ -8,7 +8,7 @@ Use this repo to report feedback and issues for the following `rtools`:
  - `rImageShield`: A simple and easy-to-use image protector with message embedding.
  - `rrespacker`: A simple and easy-to-use rres resource packer.
  
- For uses related to open-source tools, use the provided repo:
+ For issues related to **open-source** tools, use the provided repo:
  
  - [`rFXGen`](https://github.com/raysan5/rfxgen): A simple and easy-to-use fx sounds generator.
  - [`rGuiStyler`](https://github.com/raysan5/rguistyler): A simple and easy-to-use [raygui](https://github.com/raysan5/raygui) styles editor.
