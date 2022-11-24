@@ -12,8 +12,8 @@ Use this repo to report feedback and issues for the following `rtools`:
  
  - [`rFXGen`](https://github.com/raysan5/rfxgen): A simple and easy-to-use fx sounds generator.
  - [`rGuiStyler`](https://github.com/raysan5/rguistyler): A simple and easy-to-use [raygui](https://github.com/raysan5/raygui) styles editor.
- - [`rGuiLayout`](): A simple and easy-to-use [raygui](https://github.com/raysan5/raygui) layouts editor.
- - [`rGuiIcons`](): A simple and easy-to-use [raygui](https://github.com/raysan5/raygui) icons editor.
- - [`rIconpacker`](): A simple and easy-to-use icons packer and extractor.
+ - [`rGuiLayout`](https://github.com/raysan5/rguilayout): A simple and easy-to-use [raygui](https://github.com/raysan5/raygui) layouts editor.
+ - [`rGuiIcons`](https://github.com/raysan5/rGuiIcons): A simple and easy-to-use [raygui](https://github.com/raysan5/raygui) icons editor.
+ - [`rIconpacker`](https://github.com/raysan5/rIconpacker): A simple and easy-to-use icons packer and extractor.
  
  In case of some specific question, you can contact directly to: `ray[at]raylibtech.com`
