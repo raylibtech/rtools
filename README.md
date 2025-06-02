@@ -8,6 +8,7 @@ Use this repo to report feedback and issues for the following `rtools`:
  - `rImageShield`: A simple and easy-to-use image protector with message embedding.
  - `rrespacker`: A simple and easy-to-use rres resource packer.
  - `rInstallFriendly`: A simple and easy-to-use installer packages creator.
+ - `rKeyGen`: A simple and easy-to-use license-keys generator.
  
  For issues related to **open-source** tools, use the provided repo:
  
